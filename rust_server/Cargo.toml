@@ -1,0 +1,8 @@
+[package]
+name = "rust_server"
+version = "0.1.0"
+authors = ["millsky <kyle83567@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+hyper = "0.12"
